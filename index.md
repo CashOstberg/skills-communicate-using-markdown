@@ -6,3 +6,6 @@
 ###### H6 Header
 
 Added H1-H6 Headers using markdown
+
+# Image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
