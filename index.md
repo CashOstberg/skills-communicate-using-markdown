@@ -7,5 +7,15 @@
 
 Added H1-H6 Headers using markdown
 
+
 # Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Added image using markdown
+
+# Code Examples
+```javascript
+var myVar = "Hello, World!";
+```
+
+Added code examples using Markdown
