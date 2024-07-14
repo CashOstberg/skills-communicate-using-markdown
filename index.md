@@ -7,7 +7,6 @@
 
 Added H1-H6 Headers using markdown
 
-
 # Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
@@ -19,3 +18,9 @@ var myVar = "Hello, World!";
 ```
 
 Added code examples using Markdown
+
+# Lists
+- [x] Grab peanut butter
+- [ ] Grab jelly 
+- [x] Grab Bread
+- [ ] Make PB@J
